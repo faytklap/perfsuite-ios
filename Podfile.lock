@@ -53,18 +53,18 @@ PODS:
     - nanopb/encode (= 3.30910.0)
   - nanopb/decode (3.30910.0)
   - nanopb/encode (3.30910.0)
-  - PerformanceSuite (1.5.1):
-    - PerformanceSuite/Core (= 1.5.1)
-  - PerformanceSuite/Core (1.5.1)
-  - PerformanceSuite/Crashlytics (1.5.1):
+  - PerformanceSuite (1.5.2):
+    - PerformanceSuite/Core (= 1.5.2)
+  - PerformanceSuite/Core (1.5.2)
+  - PerformanceSuite/Crashlytics (1.5.2):
     - FirebaseCrashlytics
     - PerformanceSuite/Core
-  - PerformanceSuite/PerformanceApp (1.5.1):
+  - PerformanceSuite/PerformanceApp (1.5.2):
     - GCDWebServer
     - PerformanceSuite/Crashlytics
-  - PerformanceSuite/Tests (1.5.1):
+  - PerformanceSuite/Tests (1.5.2):
     - PerformanceSuite/Crashlytics
-  - PerformanceSuite/UITests (1.5.1):
+  - PerformanceSuite/UITests (1.5.2):
     - GCDWebServer
     - PerformanceSuite/PerformanceApp
   - PromisesObjC (2.4.0)
@@ -112,11 +112,11 @@ SPEC CHECKSUMS:
   GoogleDataTransport: aae35b7ea0c09004c3797d53c8c41f66f219d6a7
   GoogleUtilities: 00c88b9a86066ef77f0da2fab05f65d7768ed8e1
   nanopb: fad817b59e0457d11a5dfbde799381cd727c1275
-  PerformanceSuite: 5af141eb9dd7f78d1aed03b784000b1d7e9328f4
+  PerformanceSuite: 78165af2eb8462a0917c649172480619e2e2deac
   PromisesObjC: f5707f49cb48b9636751c5b2e7d227e43fba9f47
   PromisesSwift: 9d77319bbe72ebf6d872900551f7eeba9bce2851
   SwiftLint: bf6da11a31c6644a0bbb27f4fa15fd9636db00b3
 
 PODFILE CHECKSUM: d4d226a130308d989bd6c0ab47526b07da25ad25
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.16.2
